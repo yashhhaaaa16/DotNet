@@ -1,0 +1,14 @@
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\bin\Debug\net8.0\Question14.exe
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\bin\Debug\net8.0\Question14.deps.json
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\bin\Debug\net8.0\Question14.runtimeconfig.json
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\bin\Debug\net8.0\Question14.dll
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\bin\Debug\net8.0\Question14.pdb
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\Question14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\Question14.AssemblyInfoInputs.cache
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\Question14.AssemblyInfo.cs
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\Question14.csproj.CoreCompileInputs.cache
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\Question14.dll
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\refint\Question14.dll
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\Question14.pdb
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\Question14.genruntimeconfig.cache
+C:\Users\group023\Documents\Cdac\DotNet\Basic c# Assignment\Question14\obj\Debug\net8.0\ref\Question14.dll
